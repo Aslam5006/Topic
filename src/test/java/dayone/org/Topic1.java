@@ -37,4 +37,9 @@ public class Topic1 {
 
 	}
 	
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
